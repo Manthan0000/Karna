@@ -1,0 +1,19 @@
+{
+  "name": "karna",
+  "version": "1.0.0",
+  "description": "Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manthan0000/Karna.git"
+  },
+  "author": "Manthan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manthan0000/Karna/issues"
+  },
+  "homepage": "https://github.com/Manthan0000/Karna#readme"
+}

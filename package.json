@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Manthan0000/Karna.git"
+    "url": "git@github.com:Manthan0000/Karna.git"
   },
   "author": "Manthan",
   "license": "ISC",
